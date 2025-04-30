@@ -1,16 +1,20 @@
-## Hi there 👋
+#### 👋 Hello {World}, I'm Reffat from NY!
+Experienced Data Scientist | Data Lead using her interdisciplinary toolkit from economics, physics, and computational science to drive business growth 🌱
 
-<!--
-**rmanzur/rmanzur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🔍 About Me
+- 💡 Lifelong Learner currently learning: NLP/LLM, networks/graphs, recommendation systems
 
-Here are some ideas to get you started:
+#### 🛠️ Tech Stack
+- Python (pandas, numpy, matplotlib, scikit-learn, spaCy (NLP)) 
+- SQL (MySQL, PostgreSQL)
+- AWS, Google Cloud Platform (GCP), Redshift
+- Jupyter Notebooks, Looker Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🎓 Education
+- MSE Scientific Computing (Computational Science) | BA Economics, Physics
+
+#### 📫 Let's Connect
+- 📧 Email: [reffatmanzur@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/reffatmanzur/]
+
+
