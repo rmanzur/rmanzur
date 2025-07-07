@@ -1,5 +1,5 @@
 #### 👋 Hello {World}, I'm Reffat from NY!
-Experienced Data Scientist | Data Lead using her interdisciplinary toolkit from economics, physics, and computational science to drive business growth 🌱
+Experienced Data Scientist | Data Science Lead using her interdisciplinary toolkit from economics, physics, and computational science to drive business growth 🌱
 
 #### 🔍 About Me
 - 💡 Lifelong Learner currently learning: NLP/LLM, networks/graphs, recommendation systems
