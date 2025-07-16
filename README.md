@@ -2,12 +2,12 @@
 Experienced Data Scientist | Data Science Lead using her interdisciplinary toolkit from economics, physics, and computational science to drive product and business growth 🌱
 
 #### 🔍 About Me
-- 💡 Lifelong Learner currently learning: NLP/LLM, networks/graphs, recommendation systems
+- 💡 Lifelong Learner currently learning: dbt, NLP/LLM, networks/graphs, recommendation systems
 
 #### 🛠️ Tech Stack
 - Python (pandas, numpy, matplotlib, scikit-learn, spaCy (NLP)) 
-- SQL (MySQL, PostgreSQL)
-- AWS, Google Cloud Platform (GCP), Redshift
+- SQL (MySQL, PostgreSQL), dbt
+- AWS, Google Cloud Platform (GCP), Redshift, Snowflake
 - Jupyter Notebooks, Looker Studio
 
 #### 🎓 Education
