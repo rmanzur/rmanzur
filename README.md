@@ -2,7 +2,9 @@
 Experienced Data Scientist | Data Science Lead using her interdisciplinary toolkit from economics, physics, and computational science to drive product and business growth 🌱
 
 #### 🔍 About Me
-- 💡 Lifelong Learner currently learning: dbt, NLP/LLM, networks/graphs, recommendation systems
+- 🔬 Extensive experience in applying data science to product analytics and growth analytics, with a strong foundation in machine learning
+- 💪 Key Strengths: NLP, time series analysis and forecasting, experimentation, recommender systems
+- 💡 Lifelong Learner currently learning: dbt, NLP/LLM, networks/graphs
 
 #### 🛠️ Tech Stack
 - Python (pandas, numpy, matplotlib, scikit-learn, spaCy (NLP)) 
