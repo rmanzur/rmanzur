@@ -2,9 +2,9 @@
 Experienced Data Scientist | Data Science Lead using her interdisciplinary toolkit from economics, physics, and computational science to drive product and business growth 🌱
 
 #### 🔍 About Me
-- 🔬 Extensive experience in applying data science to product analytics and growth analytics, with a strong foundation in machine learning
-- 💪 Key Strengths: NLP, time series analysis and forecasting, experimentation, recommender systems
-- 💡 Lifelong Learner currently learning: dbt, NLP/LLM, networks/graphs
+- 🔬 Extensive experience in applying product-focused data science, with a strong foundation in machine learning fundamentals
+- 💪 Key Strengths: experimentation, NLP, time series analysis and forecasting, recommender systems
+- 💡 Lifelong Learner currently learning: dbt, networks/graphs
 
 #### 🛠️ Tech Stack
 - Python (pandas, numpy, matplotlib, scikit-learn, spaCy (NLP)) 
@@ -14,8 +14,7 @@ Experienced Data Scientist | Data Science Lead using her interdisciplinary toolk
 
 #### 🎓 Education
 - MSE Scientific Computing (Computational Science) | BA Economics, Physics
-- Here is a fun knowledge graph (sort of resembling a tree 🌴) representing courses I took in graduate school and the connections between them: unidirectional arrows point in the direction of a course providing foundational knowledge for another course, and bidirectional arrows indicate that key concepts in both courses/fields interact in significant ways. The color of the courses/nodes represent whether a course is domain-driven and applied (green), tool-driven and applied (crimson), or theoretical/foundational (brown)
-![Image](https://github.com/user-attachments/assets/bd9eb898-17ad-4ed4-acdb-9a439189f2f9)
+
 #### 📫 Let's Connect
 - 📧 Email: [reffat.rjm@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/reffatmanzur/]
