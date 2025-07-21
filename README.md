@@ -14,6 +14,7 @@ Experienced Data Scientist | Data Science Lead using her interdisciplinary toolk
 
 #### 🎓 Education
 - MSE Scientific Computing (Computational Science) | BA Economics, Physics
+  - [a fun graph of my grad school coursework](https://github.com/rmanzur/fun-facts/blob/main/README.md) 
 
 #### 📫 Let's Connect
 - 📧 Email: [reffat.rjm@gmail.com]
