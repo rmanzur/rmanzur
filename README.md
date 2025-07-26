@@ -1,5 +1,5 @@
 #### 👋 Hello {World}, I'm Reffat from NY!
-Experienced Data Scientist | Data Science Lead using her interdisciplinary toolkit from economics, physics, and computational science to drive product and business growth 🌱
+Experienced Data Scientist | Data Science / Analytics Lead using her interdisciplinary toolkit from economics, physics, and computational science to drive product and business growth 🌱
 
 #### 🔍 About Me
 - 🔬 Extensive experience in applying product-focused data science, with a strong foundation in machine learning fundamentals
