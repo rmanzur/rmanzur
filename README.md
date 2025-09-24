@@ -3,7 +3,7 @@ Experienced Data Scientist | Data Science / Analytics Lead using her interdiscip
 
 #### 🔍 About Me
 - 🔬 Extensive experience in applying product-focused data science, with a strong foundation in machine learning fundamentals
-- 💪 Key Strengths: experimentation, NLP, time series analysis and forecasting, recommender systems
+- 💪 Key Strengths: experimentation, NLP, simulation, time series analysis and forecasting, recommender systems
 - 💡 Lifelong Learner currently learning: dbt, networks/graphs
 
 #### 🛠️ Tech Stack
